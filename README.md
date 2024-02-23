@@ -1,3 +1,5 @@
+![Masterhead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h1 align="center">Hi 👋, I'm Sunil Kumar Pal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
