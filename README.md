@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sunil Kumar Pal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
-- 👨‍💻 All of my Dashboards Projects are available at (https://www.novypro.com/profile_projects/sunil-kumar-pal)
+- 👨‍💻 All of my Dashboards Projects are available at **https://www.novypro.com/profile_projects/sunil-kumar-pal**
 
 - 📫 How to reach me **1996sunilkumarpal@gmail.com**
 
