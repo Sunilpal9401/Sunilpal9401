@@ -34,7 +34,7 @@
 
 - [Car Sales Analysis](https://github.com/Sunilpal9401/Power-BI-SQL-Projects/tree/main/Sales_Analysis) : Analyzed powerful insights with Power BI's car sales analysis visualize trends, identify key performance indicators with comprehensive data-driven reports and interactive dashboards.
 
--[Covid_19 Data Exploration](https://github.com/Sunilpal9401/Covid_19-Data-Exploration-with-SQL) : Analyze trends, track case statistics, and pandemic patterns.
+- [Covid_19 Data Exploration](https://github.com/Sunilpal9401/Covid_19-Data-Exploration-with-SQL) : Analyze trends, track case statistics, and pandemic patterns.
 
 
 ## **Get in Touch**
