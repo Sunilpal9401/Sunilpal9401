@@ -36,5 +36,7 @@ Skilled in Data Wrangling, analyzing, visualizing, and uncover patterns within d
 
 ## Get in Touch
 💬 Connect with me on LinkedIn: [Linkedin](https://www.linkedin.com/in/sunil-kumar-pal/)
-Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
+
+
+**Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us!** 🚀
 
