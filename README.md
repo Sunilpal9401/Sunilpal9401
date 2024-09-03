@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Pal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 - 👨‍💻 **About Me** :
-**Skilled in Data Wrangling, analyzing, visualizing, and uncover patterns within data using Microsoft Excel, PowerPoint, MySQL,Power BI and Canva.**
+** 📈 Skilled in problem solving using Data Wrangling, analyzing, visualizing, and uncover patterns within data using Microsoft Excel, PowerPoint, MySQL,Power BI and Canva.**
 
 
 ## **What You'll find here** :
@@ -38,6 +38,8 @@
 💬 Connect with me on LinkedIn: [Linkedin](https://www.linkedin.com/in/sunil-kumar-pal/)
 
 
-**Feel free to explore my** [projects](https://github.com/Sunilpal9401?tab=repositories)
- **Provide feedback, and collaborate. Let's make data work for us!** 🚀
+**Feel free to explore my** [Projects](https://github.com/Sunilpal9401?tab=repositories)
+
+
+ 🧐**Provide feedback, and collaborate. Let's make data work for us!** 🚀
 
