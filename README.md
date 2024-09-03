@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Sunil Kumar Pal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
-- 👨‍💻 **About Me** :
+## **About Me** :
+
 ** 📈 Skilled in problem solving using Data Wrangling, analyzing, visualizing, and uncover patterns within data using Microsoft Excel, PowerPoint, MySQL,Power BI and Canva.**
 
 
