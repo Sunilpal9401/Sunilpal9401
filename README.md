@@ -11,7 +11,8 @@
 
 
 ## **What You'll find here** :
-- 📚 Projects: Explore my work in data analysis, visualization :-
+
+ ### 📚 **Projects: Explore my work in data analysis, visualization :-**
 
 - [Card Spending India Analysis](https://github.com/Sunilpal9401/Power-BI-SQL-Projects/tree/main/Card_Spending_India_Analysis) : Delve into comprehensive data insights with SQL queries to analyze card spending trends, identify spending patterns, and uncover key metrics across various sectors and demographics in India.
 
