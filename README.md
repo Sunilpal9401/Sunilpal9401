@@ -43,7 +43,7 @@
 💬 Connect with me on LinkedIn: [Linkedin](https://www.linkedin.com/in/sunil-kumar-pal/)
 
 
-📚 **Feel free to explore my** [Projects](https://github.com/Sunilpal9401?tab=repositories)
+📚 **Feel free to explore my all** [Projects](https://github.com/Sunilpal9401?tab=repositories)
 
 
  🧐**Provide feedback, and collaborate.**
