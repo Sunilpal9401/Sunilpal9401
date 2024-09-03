@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Sunil Kumar Pal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
-- 👨‍💻 About Me :
-Skilled in Data Wrangling, analyzing, visualizing, and uncover patterns within data using Microsoft Excel, PowerPoint, MySQL ,Power BI and Canva.
+- 👨‍💻 **About Me** :
+**Skilled in Data Wrangling, analyzing, visualizing, and uncover patterns within data using Microsoft Excel, PowerPoint, MySQL,Power BI and Canva.**
 
 
-## What You'll find here :
+## **What You'll find here** :
 - 📚 Projects: Explore my work in data analysis, visualization :-
 
 - [Card Spending India Analysis](https://github.com/Sunilpal9401/Power-BI-SQL-Projects/tree/main/Card_Spending_India_Analysis) : Delve into comprehensive data insights with SQL queries to analyze card spending trends, identify spending patterns, and uncover key metrics across various sectors and demographics in India.
@@ -34,9 +34,10 @@ Skilled in Data Wrangling, analyzing, visualizing, and uncover patterns within d
 -[Covid_19 Data Exploration](https://github.com/Sunilpal9401/Covid_19-Data-Exploration-with-SQL) : Analyze trends, track case statistics, and pandemic patterns.
 
 
-## Get in Touch
+## **Get in Touch**
 💬 Connect with me on LinkedIn: [Linkedin](https://www.linkedin.com/in/sunil-kumar-pal/)
 
 
-**Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us!** 🚀
+**Feel free to explore my** [projects](https://github.com/Sunilpal9401?tab=repositories)
+ **Provide feedback, and collaborate. Let's make data work for us!** 🚀
 
