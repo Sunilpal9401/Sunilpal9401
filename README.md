@@ -14,6 +14,8 @@
 
  ### 📚 **Projects: Explore my work in data analysis, visualization :-**
 
+- [Indian Population Analysis](https://github.com/Sunilpal9401/Indian_Population_Analysis) : Comprehensive analysis of India's population data reveals dynamic trends, with rapid urbanization, diverse demographics, and significant regional variations, offering critical insights.
+
 - [Card Spending India Analysis](https://github.com/Sunilpal9401/Power-BI-SQL-Projects/tree/main/Card_Spending_India_Analysis) : Delve into comprehensive data insights with SQL queries to analyze card spending trends, identify spending patterns, and uncover key metrics across various sectors and demographics in India.
 
 - [Walmart Sales Data_Analysis](https://github.com/Sunilpal9401/Power-BI-SQL-Projects/tree/main/Walmart_Sales_Data_Analysis) : Analyzed Walmart sales data using MySQL, aggregated sales, identifying trends, optimizing query with robust queries and insightful reports.
