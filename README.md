@@ -43,5 +43,5 @@
 
  🧐**Provide feedback, and collaborate.**
 
- **Let's make data work for us!** 🚀
+ 📈**Let's make data work for us!** 🚀
 
